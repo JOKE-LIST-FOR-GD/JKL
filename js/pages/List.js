@@ -51,8 +51,8 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <div class="type-title-sm">FUNNY</div>
+                            <p>{{ level.FUNNY || 'IS NEEDED' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
@@ -100,28 +100,28 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the level based on how funny cool or buggy it looks!!
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        ACHIEVED BASED ON HOW much there is too SEE
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        HAVE A SOURCE OF VIDEO FROM THE LEVEL ITSELF
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        THIS LEVEL IS REQUIRED TO HAVE ATLEAST 30 frameperfects
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        YOUR only allowed to play on 240 fps and higher!
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        MAKE GOOFY STUFF
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        dont show GAMEPLAY (just kidding ofc its optional)
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                    SUBMIT WHENEVer!!
                     </p>
                 </div>
             </div>
